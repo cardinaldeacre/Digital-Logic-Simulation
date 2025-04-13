@@ -33,4 +33,4 @@ The project demonstrates basic to intermediate logic circuit designs, simulating
 1. Download and install **Digital Works** (if not already installed)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/digital-logic-simulation.git
+  https://github.com/yourusername/digital-logic-simulation.git](https://github.com/cardinaldeacre/Digital-Logic-Simulation.git
